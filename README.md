@@ -12,7 +12,7 @@ Dự án được thực hiện trên Excel với các thao tác xử lý, phân
 
 ## 📝 Đề bài  
 Dữ liệu giao dịch của công ty bao gồm nhiều thông tin về khách hàng, sản phẩm, phương thức thanh toán và khu vực.  
-Nhiệm vụ của bạn là phân tích dữ liệu này để tìm ra các xu hướng kinh doanh, yếu tố ảnh hưởng đến doanh thu và đề xuất giải pháp tối ưu hóa.  
+Nhiệm vụ: Phân tích dữ liệu này để tìm ra các xu hướng kinh doanh, yếu tố ảnh hưởng đến doanh thu và đề xuất giải pháp tối ưu hóa.  
 
 ---
 
@@ -34,21 +34,19 @@ Dữ liệu trong dự án này được chia thành 7 phần chính, mỗi ph�
 ## 📂 Data Dictionary - Giải thích dữ liệu  
 Dưới đây là mô tả chi tiết của từng cột trong dataset:  
 
-| 🏷️ **Tên Cột** | 📖 **Mô Tả** |
-|--------------|-------------|
-| `Transaction_ID` | Mã giao dịch duy nhất |
-| `Date` | Ngày thực hiện giao dịch |
-| `Customer_ID` | Mã khách hàng |
-| `Customer_Segment` | Phân khúc khách hàng (VIP, Regular, New) |
-| `Product_ID` | Mã sản phẩm được mua |
-| `Product_Name` | Tên sản phẩm |
-| `Category` | Danh mục sản phẩm (Electronics, Fashion, Grocery,...) |
-| `Quantity` | Số lượng sản phẩm trong giao dịch |
-| `Unit_Price` | Giá bán của một sản phẩm |
-| `Total_Revenue` | Tổng doanh thu của giao dịch (`Quantity * Unit_Price`) |
-| `Payment_Method` | Phương thức thanh toán (Credit Card, Bank Transfer, Cash,...) |
-| `Region` | Khu vực nơi giao dịch diễn ra |
-| `Channel` | Kênh bán hàng (Online, In-store) |
+| **Tên Cột**           | **Mô Tả** |
+|-----------------------|----------|
+| **Ngày tháng**        | Ngày giao dịch diễn ra |
+| **Mã NV**            | Mã số của nhân viên bán hàng |
+| **Người bán hàng**    | Tên nhân viên bán hàng thực hiện giao dịch |
+| **Định phân**         | Loại hình kinh doanh nơi diễn ra giao dịch |
+| **Chi nhánh**         | Địa điểm chi nhánh nơi giao dịch diễn ra |
+| **Mã hàng**          | Mã số định danh của mặt hàng |
+| **Loại hàng**        | Nhóm sản phẩm chính  |
+| **Tên hàng**         | Tên sản phẩm cụ thể |
+| **Số lượng**         | Số lượng sản phẩm được bán trong giao dịch |
+| **Đơn vị (ĐVT)**     | Đơn vị tính của sản phẩm |
+| **Đơn giá**         | Giá bán của một đơn vị sản phẩm |
 
 ---
 
