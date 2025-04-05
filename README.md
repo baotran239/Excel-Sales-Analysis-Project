@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Project  
+# [Excel] Sales Analysis Project  
 
 ## 📌 Giới thiệu  
 Dự án được thực hiện trên Excel với các thao tác xử lý, phân tích và trực quan hóa dữ liệu nhằm đánh giá tình hình kinh doanh, hiệu suất hoạt động và hành vi khách hàng.
@@ -19,15 +19,15 @@ Nhiệm vụ: Phân tích dữ liệu này để tìm ra các xu hướng kinh d
 ## 🔍 Nội dung phân tích  
 Dữ liệu trong dự án này được chia thành 7 phần chính, mỗi phần trả lời một câu hỏi quan trọng về hiệu suất kinh doanh:  
 
-| 🔢 **Phần** | 📌 **Nội dung** |
+| **Câu hỏi** |  **Nội dung** |
 |------------|----------------|
-| **1** | Doanh thu thay đổi thế nào theo từng tháng? 📈 |
-| **2** | Phương thức thanh toán nào được sử dụng nhiều nhất? 💳 |
-| **3** | Top 5 sản phẩm bán chạy nhất là gì? 🛍️ |
-| **4** | Nhóm khách hàng nào đóng góp doanh thu cao nhất? 👥 |
-| **5** | Khu vực nào có doanh thu tốt nhất? 🏙️ |
-| **6** | Xu hướng thanh toán thay đổi theo thời gian ra sao? ⏳ |
-| **7** | Có thể cải thiện doanh thu bằng cách nào? 💡 |
+| **1** | Doanh thu thay đổi thế nào theo từng tháng? |
+| **2** | Phương thức thanh toán nào được sử dụng nhiều nhất? |
+| **3** | Top 5 sản phẩm bán chạy nhất là gì? |
+| **4** | Nhóm khách hàng nào đóng góp doanh thu cao nhất? |
+| **5** | Khu vực nào có doanh thu tốt nhất? |
+| **6** | Xu hướng thanh toán thay đổi theo thời gian ra sao? |
+| **7** | Có thể cải thiện doanh thu bằng cách nào? |
 
 ---
 
