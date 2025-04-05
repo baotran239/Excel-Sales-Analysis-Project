@@ -6,18 +6,12 @@ Dự án được thực hiện trên Excel với các thao tác xử lý, phân
 ## 🎯 Mục tiêu  
 - Phân tích dữ liệu để hiểu rõ hơn về doanh thu, giao dịch và khách hàng.  
 - Sử dụng các công cụ Excel để xử lý dữ liệu và trình bày kết quả.  
-- Đưa ra các đề xuất cải thiện hiệu suất dựa trên dữ liệu thực tế.  
 
 ---
 
 ## 📝 Đề bài  
 Dữ liệu giao dịch của công ty bao gồm nhiều thông tin về khách hàng, sản phẩm, phương thức thanh toán và khu vực.  
 Nhiệm vụ: Phân tích dữ liệu này để tìm ra các xu hướng kinh doanh, yếu tố ảnh hưởng đến doanh thu và đề xuất giải pháp tối ưu hóa.  
-
----
-
-## 🔍 Nội dung phân tích  
-Dữ liệu trong dự án này được chia thành 7 phần chính, mỗi phần trả lời một câu hỏi quan trọng về hiệu suất kinh doanh:  
 
 | **Câu hỏi** |  **Nội dung** |
 |------------|----------------|
@@ -32,7 +26,6 @@ Dữ liệu trong dự án này được chia thành 7 phần chính, mỗi ph�
 ---
 
 ## 📂 Data Dictionary - Mô tả dữ liệu  
-Dưới đây là mô tả chi tiết của từng cột trong dataset:  
 
 | **Tên Cột**           | **Mô Tả** |
 |-----------------------|----------|
@@ -52,8 +45,7 @@ Dưới đây là mô tả chi tiết của từng cột trong dataset:
 
 ## 🛠️ Phương pháp thực hiện  
 - **Xử lý dữ liệu**: Làm sạch dữ liệu, chuẩn hóa định dạng và loại bỏ giá trị không hợp lệ.  
-- **Phân tích**: Áp dụng các công cụ Excel như Pivot Table, công thức và biểu đồ để tìm ra insight.  
-- **Đề xuất & Kết luận**: Dựa trên dữ liệu thực tế, đưa ra giải pháp cải thiện doanh thu và tối ưu kinh doanh.  
+- **Phân tích**: Áp dụng các hàm trong Excel như SUM, VLOOKUP, IF, SUMIFS, Pivot Table, biểu đồ để tìm ra insight.
 
 ---
 
@@ -63,4 +55,4 @@ File Excel chứa toàn bộ phân tích được đính kèm ở trên.
 ---
 
 ## 🚀 Kết luận  
-Thông qua việc phân tích dữ liệu, dự án này giúp đánh giá tình hình kinh doanh, hiểu sâu hơn về hành vi khách hàng và đề xuất những hướng đi hợp lý để tăng trưởng doanh thu.
+Thông qua việc phân tích dữ liệu, dự án này giúp đánh giá tình hình kinh doanh, hiểu sâu hơn về hành vi khách hàng để có những hướng đi hợp lý để tăng trưởng doanh thu.
