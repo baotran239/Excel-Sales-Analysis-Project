@@ -21,17 +21,17 @@ Dữ liệu trong dự án này được chia thành 7 phần chính, mỗi ph�
 
 | **Câu hỏi** |  **Nội dung** |
 |------------|----------------|
-| **1** | Doanh thu thay đổi thế nào theo từng tháng? |
-| **2** | Phương thức thanh toán nào được sử dụng nhiều nhất? |
-| **3** | Top 5 sản phẩm bán chạy nhất là gì? |
-| **4** | Nhóm khách hàng nào đóng góp doanh thu cao nhất? |
-| **5** | Khu vực nào có doanh thu tốt nhất? |
-| **6** | Xu hướng thanh toán thay đổi theo thời gian ra sao? |
-| **7** | Có thể cải thiện doanh thu bằng cách nào? |
+| **1** | Điền cột khuyến mại: biết nếu mua số lượng từ 5 trở lên tại chi nhánh Hà Nội thì được khuyến mại 10% còn lại là không được khuyến mại|
+| **2** | Điền cột Chiết khấu, biết chiết khấu dựa vào số lượng mua và chi nhánh |
+| **3** | Tính cột thành tiền, biết thành tiền bằng (số lượng * đơn giá) |
+| **4** | Tạo ra bản sao của sheet1, đặt tên là Câu 4, thực hiện theo yêu cầu sau: Sắp xếp các dòng theo tên Kênh phân phối từ A-Z, trong cùng 1 kênh phân phối các dòng có Thành tiền cao thì ở phía trên, thành tiền thấp ở phía dưới |
+| **5** | Tạo ra bản sao của sheet1, đặt tên là Câu 5,  lọc ra các dòng thỏa mãn điều kiện: trong tên hàng có chữ "NES" và có số lượng từ 5-10|
+| **6** | Tính toán và điền con số theo các yêu cầu dưới đây <br> a. Tổng số lượng hàng hóa bán tại chi nhánh Hà Nội <br> b. Tổng  thành tiền của các lần mua hàng thuộc kênh phân phối Siêu thị tại Hà Nội|
+| **7** | Tạo các báo cáo tự động <br> a. Tạo pivot table tính tổng thành tiền theo các Kênh phân phối <br> b. Tạo pivot table tính tổng số lượng hàng hóa theo từng Chi nhánh và Loại hàng|
 
 ---
 
-## 📂 Data Dictionary - Giải thích dữ liệu  
+## 📂 Data Dictionary - Mô tả dữ liệu  
 Dưới đây là mô tả chi tiết của từng cột trong dataset:  
 
 | **Tên Cột**           | **Mô Tả** |
