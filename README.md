@@ -58,8 +58,7 @@ Dưới đây là mô tả chi tiết của từng cột trong dataset:
 ---
 
 ## 📎 File đính kèm  
-File Excel chứa toàn bộ phân tích tại đây:  
-📂 **[Data_Analysis_Project.xlsm](./Data_Analysis_Project.xlsm)**  
+File Excel chứa toàn bộ phân tích được đính kèm ở trên: 
 
 ---
 
